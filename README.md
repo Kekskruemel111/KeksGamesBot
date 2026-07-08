@@ -1,4 +1,4 @@
-Über den Bot
+### Über den Bot
 
 Dieser Discord-Bot bietet verschiedene Minispiele wie Vier Gewinnt, Tic Tac Toe, Käsekästchen und weitere Spiele an.
 
